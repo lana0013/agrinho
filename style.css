@@ -1,0 +1,88 @@
+body {
+    background: linear-gradient(to bottom right, #72c572 0%, #48758b 100%);
+}
+
+header {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    background: linear-gradient(to right, #53b83f 0%, #51a3cc 100%);
+    color: #fff;
+    padding: 10px 20px; 
+}
+  
+.logo img {
+    max-width: 150px;
+    border-radius: 50px;
+}
+  
+.title h1 {
+    font-size: 60px;
+    color: #0a6616;
+    font-family: "Protest Guerrilla", sans-serif;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  background-color: #dfa53a;
+}
+
+.navbar a:hover {
+  background-color: #d6bd2d;
+}
+
+footer {
+    background-color: #dfa53a;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 50%;
+}
+
+.textoleft {
+  padding: 40px;
+  align-items: left;
+  font-size: 24px;
+  padding-bottom: 120px;
+  font-family: "Kalam", cursive;
+}
+
+.imgright {
+  float: right;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.textoright {
+  padding: 40px;
+  align-items: right;
+  font-size: 24px;
+  padding-bottom: 20px;
+  font-family: "Kalam", cursive;
+}
+
+.imgleft {
+  float: left;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.opacity {
+  property: opacity,
+  values: (
+    0: 0,
+    25: .25,
+    50: .5,
+    75: .75,
+    100: 1,
+  )
+}
+
+.carousel-item {
+  height: 500px;
+}
