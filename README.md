@@ -4,7 +4,7 @@
 Este projeto é parte do tema "Do campo à cidade, colhendo oportunidades" e explora a agricultura urbana e sua definição, importância, contribuição e métodos.
 
 ## GitHub Pages
-O site pode ser acessado em: (https://github.com/lana0013/agrinho.git).
+O site pode ser acessado em: https://github.com/lana0013/agrinho.git.
 
 ## Instruções de Uso
 1. Acesse o site pelo link acima.
