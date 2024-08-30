@@ -83,12 +83,19 @@ section {
   border-radius: 8px;
 }
 
+.footer {
+  background-color: #f7b948;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
 #contato {
     padding: 20px;
     max-width: 600px;
     margin: 0 auto;
     background:rgb(253, 170, 253);
-
+}
 form {
     display: flex;
     flex-direction: column;
@@ -121,10 +128,3 @@ button {
 button:hover {
     background-color: #45a049;
 } 
-
-footer {
-  background-color: #f7b948;
-  padding: 10px;
-  text-align: center;
-  color: white;
-}
